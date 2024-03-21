@@ -1,0 +1,225 @@
+
+#divmain1{
+
+    display: flex;
+    
+    justify-content: space-evenly;
+    text-decoration: none;
+    margin-left: 30px;
+    align-content:center ;
+
+}
+#divsub1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 70px;
+}
+input{
+    margin-top: 12px;
+}
+#divsub3{
+    position: absolute;
+    display: flex;
+    margin-left: 180px;
+    gap: 20px;
+}
+#divsub3>div>h4{
+    text-align: center;
+    margin-top: -5px;
+
+}
+#divsub4{
+    display: flex;
+    margin-top: 250px;
+    margin-left: 180px;
+    gap: 20px;
+}
+#divsub4>div>h4{
+    text-align: center;
+    margin-top: -5px;
+}
+#divsub5{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+    gap: 20px;
+}
+#divsub5>div>h4{
+    text-align: center;
+    margin-top: -5px;
+}
+#divsub6{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+    gap: 20px;
+}
+#divsub6>div>h4{
+    text-align: center;
+    margin-top: -5px;  
+}
+#divsub7{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+    gap: 20px; 
+}
+#divsub7>div>h4{
+    text-align: center;
+    margin-top: -5px;
+}
+#divsub8{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+    gap: 20px;
+}
+#divsub9{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+    gap: 50px;
+}
+#divsub10{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 180px;
+    gap: 20px;
+    
+
+}
+#divsub10>div>img{
+    border-radius: 100px;
+}
+#divsub10>h4{
+    margin-left: 500px;
+    margin-top: 100px;
+    text-align: center;
+}
+#divsub3>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly;
+}
+#divsub4>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly;
+}
+#divsub5>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly; 
+}
+#divsub6>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly; 
+}
+#divsub7>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly; 
+}
+#divsub8>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly; 
+}
+#divsub9>div>button{
+    background-color: azure;
+    border: 0px;
+    justify-content: space-evenly; 
+}
+
+
+#divmain20{
+    
+    position: absolute;
+  
+}
+
+#divmain4{
+    display: flex;
+justify-content: space-evenly;
+}
+
+
+#divmain1>input{
+    height: 30px;
+    width: 400px;
+    border-radius: 400px;
+    align-content: center;
+    display: flex;
+
+}
+#div>header{
+    justify-content: center;
+}
+#divmain4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+}
+#divsub{
+    display: flex;
+}
+#subdiv{
+    height:100px;
+    width: 150px;
+    justify-content: space-evenly;
+
+}
+#divmain4>div{
+    height: 100px;
+    width: 150px;
+    justify-content: space-evenly;
+    gap: 500px;
+    margin: 30px;
+}
+#divmain4>div>img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin: 30px;
+
+}
+#divmain4{
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width:200px;
+    height:200px;;
+}
+#divmain10{
+    display: flex;
+}
+
+#divmain1>input{
+    display: flex;
+    height: 35px;
+    width: 450;
+    border-radius: 400px;
+    align-content: center;
+}
+#divmain1>img{
+    width:150px;
+    height:100px;
+    margin-right:300px;
+}
+#divmain20{
+    position: fixed;
+}
+#subdiv11>h2{
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
